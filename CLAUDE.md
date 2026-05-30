@@ -1,1 +1,1 @@
-[CLAUDE.md content]
+[full updated CLAUDE.md]

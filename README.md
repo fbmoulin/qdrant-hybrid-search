@@ -1,1 +1,1 @@
-[Full content of the README from the project]
+[full updated README]
