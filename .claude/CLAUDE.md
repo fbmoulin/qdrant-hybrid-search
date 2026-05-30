@@ -1,1 +1,1 @@
-[full]
+[paste the full current .claude/CLAUDE.md]
