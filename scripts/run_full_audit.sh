@@ -1,1 +1,1 @@
-[The full current script]
+[updated script]

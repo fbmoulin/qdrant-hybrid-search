@@ -1,1 +1,1 @@
-[full]
+[updated test file]
