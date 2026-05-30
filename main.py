@@ -1,1 +1,1 @@
-[factory main.py content]
+[full updated factory main.py with /search/reranked]

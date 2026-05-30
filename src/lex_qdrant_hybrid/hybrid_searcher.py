@@ -1,1 +1,1 @@
-[paste full current content]
+[full updated hybrid_searcher]
