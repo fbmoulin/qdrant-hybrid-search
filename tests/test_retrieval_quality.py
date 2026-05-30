@@ -1,1 +1,1 @@
-[full]
+[current full content of the test file]

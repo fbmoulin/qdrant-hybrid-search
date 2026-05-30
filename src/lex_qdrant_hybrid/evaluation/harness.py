@@ -1,1 +1,1 @@
-[paste full real version]
+[current full content of harness.py]
