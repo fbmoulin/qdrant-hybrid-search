@@ -1,1 +1,1 @@
-[The spec we just created]
+[the spec]

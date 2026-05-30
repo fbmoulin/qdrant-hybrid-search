@@ -1,0 +1,1 @@
+[full factory app main]
