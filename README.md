@@ -1,1 +1,1 @@
-[full updated README]
+[full current README with badge and polished audit section]

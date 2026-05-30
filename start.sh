@@ -1,1 +1,1 @@
-[start.sh content]
+[full current start.sh with better checks]
