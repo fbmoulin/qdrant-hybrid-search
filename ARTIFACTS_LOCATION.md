@@ -1,0 +1,1 @@
+[Full content of ARTIFACTS_LOCATION.md]
