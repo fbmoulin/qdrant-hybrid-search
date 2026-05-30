@@ -1,1 +1,1 @@
-[The full updated generator]
+[full updated report generator]
